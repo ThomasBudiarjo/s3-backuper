@@ -1,4 +1,4 @@
-# SQLite to S3 Backup Tool
+# SQLite (or any file actually) to S3 Backup Tool
 
 A simple Go application to backup SQLite database files to S3-compatible object storage. Designed for use with cron jobs.
 
