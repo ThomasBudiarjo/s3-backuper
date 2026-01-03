@@ -1,0 +1,31 @@
+# Binaries
+backuper
+backuper.exe
+*.exe
+
+# Environment files with secrets
+.env
+.env.local
+
+# Go build cache
+*.sum
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+backup.log
+
+# Backup files
+*.db
+*.sqlite
+*.sqlite3
